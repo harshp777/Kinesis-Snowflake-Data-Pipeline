@@ -2,7 +2,7 @@
 
 This project exemplifies a robust and scalable approach to building a modern data pipeline, integrating streaming data ingestion with advanced data processing and transformation, making it an impressive addition to any data engineering portfolio.
 
-![image](https://github.com/harshp777/Kinesis-Snowflake-Data-Pipeline/assets/58933098/67b966e2-f2e3-4623-8a42-38dc811d0560)
+![image](https://github.com/harshp777/Kinesis-Snowflake-Data-Pipeline/assets/58933098/bc471512-fbeb-4981-bc8d-604c9b549774)
 
 
 # Kinesis-Snowflake Data Pipeline Project
