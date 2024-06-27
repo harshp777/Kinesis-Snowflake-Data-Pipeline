@@ -11,9 +11,8 @@ The **Kinesis-Snowflake Data Pipeline Project** is an end-to-end data pipeline l
 
 ## Architecture Overview
 
-The architecture of this data pipeline involves several key components, as illustrated in the diagram below:
+The architecture of the above data pipeline involves several key components, as illustrated in the diagram below:
 
-![Architecture Diagram](assets/img/portfolio_pic2.jfif)
 
 1. **Data Source (EC2 Instance)**:
    - The data pipeline starts with an EC2 instance, which serves as an application emitting logs. This instance holds customer and order datasets, simulating real-time data generation.
